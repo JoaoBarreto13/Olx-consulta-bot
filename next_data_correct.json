@@ -1,0 +1,331 @@
+{
+  "props": {
+    "pageProps": {
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6InByYWRhLWJmZiIsInR5cCI6IkpXVCJ9.eyJhbGciOiJSUzI1NiIsImF1ZCI6Imh0dHBzOi8vYXBpZ3cub2x4LmNvbS5ici9zdG9yZSIsImV4cCI6MTc4OTUyNTc1NCwiaXNzIjoiaHR0cHM6Ly93d3cub2x4LmNvbS5iciIsIml2IjoiYjY0Nzc4NTIyNmM2YWYxMGE1ZDhmNzljYzczY2YyMjgiLCJqdGkiOiJjMDU3Y2NiMy1kODVkLTQ4NzgtODY4Mi03ZDM4ZDMxNGE5YWQiLCJwcm9maWxlQWNjb3VudElkIjoiMTMyOTExMDU5IiwicHJvZmlsZVB1YmxpY0FjY291bnRJZCI6IjVjZWIyM2MyLTM2OTMtNDg4Zi05MDQ5LWJiZmNjN2U5YTc2NiIsInByb2ZpbGVTbHVnIjoiam9hby1wZWRyby1qZXN1cy1mZXJyZWlyYS1iYXJyZXRvLWRvcy1zYW50b3MtNWNlYjIzYzIiLCJyb2xlcyI6WyJ2aWV3ZXIiXSwic3ViIjoiam9hby1wZWRyby1qZXN1cy1mZXJyZWlyYS1iYXJyZXRvLWRvcy1zYW50b3MtNWNlYjIzYzIifQ.fnSfBCFBgQGyIGXacpJMVhq8D8yXvZQReMbYKl9E30vAR78EpEwxyWrsT4ZId2vgTPCub51fSEkK66URaa463BP73PnuiEo_zR26kpG4XG6sLmD7XXebphcDvv3dF1CzMgltmC-7_GM0eNPQkTx8g-2WpUqvMOQQUp92WMNB0xFF7ck4E3NbprUMiPjP8mo1-pT20JqM33eH14Jjam4ZsGSJD2Umrzie-c9FeRe5YmHDgUjaQUDSo96rEmj5ASm9DxdBjFntmdz1KfiPBj8lhZzooK3_COCpo9CYEiAWL_9-RtP-CX8sr4nkEC2KG1BQeRlHX0vPrPqxGZBWgf2nMA",
+      "sellerId": "132911059",
+      "sellerPublicId": "5ceb23c2-3693-488f-9049-bbfcc7e9a766",
+      "ads": {
+        "total": "2",
+        "content": [
+          {
+            "title": "celular velho moto e5",
+            "date": "2026-09-14 23:02:59",
+            "description": "CELULAR VEIO SO PRA TESTE",
+            "price": null,
+            "oldPrice": null,
+            "pro": false,
+            "properties": [
+              {
+                "name": "category",
+                "label": "Categoria",
+                "value": "Serviços",
+                "url": "https://www.olx.com.br/servicos/estado-ba/grande-salvador/salvador",
+                "rawValue": null,
+                "property": {
+                  "rawValue": null,
+                  "label": "Serviços"
+                }
+              },
+              {
+                "name": "service_type",
+                "label": "Tipo",
+                "values": [
+                  {
+                    "rawValue": "7",
+                    "label": "Informática"
+                  }
+                ],
+                "value": "Informática"
+              }
+            ],
+            "image": "https://img.olx.com.br/thumbs256x256/78/789663560546677.jpg",
+            "imageList": [
+              {
+                "baseUrl": "https://img.olx.com.br",
+                "path": "/78/789663560546677.jpg"
+              }
+            ],
+            "numberOfImages": 1,
+            "listId": 1535539748,
+            "location": "Salvador, Paralela - DDD 71 Salvador e região, BA",
+            "location_distinct": {
+              "municipality": "Salvador",
+              "neighbourhood": "Paralela",
+              "uf": "BA"
+            },
+            "category": "Serviços",
+            "link": "https://ba.olx.com.br/grande-salvador/servicos/celular-velho-moto-e5-1535539748",
+            "state": 4,
+            "categoryId": 7060,
+            "isFavorited": false,
+            "olxPay": false,
+            "olxDelivery": false
+          },
+          {
+            "title": "XIAOMI REDMI NOTE 12 4G 8GB 128gb",
+            "date": "2026-09-03 14:05:14",
+            "description": "Redmi Note 12 4G - 128GB | 8GB RAM<br><br>Vendo Redmi Note 12 4G 128GB, em ótimo estado de conservação e funcionando perfeitamente.<br><br>- 16GB de RAM, 8GB de RAM física + 8GB de RAM Boost<br>- 128GB de armazenamento<br>- Versão 4G (Funciona WIFI 5G)<br>- Bateria de 5.000 mAh<br><br>O aparelho não é recondicionado, so passou por esses serviços<br>- Troca da carcaça<br>- Refeito o contato/conexão de um flat<br><br>O aparelho está em ótimo estado. A tela possui alguns pequenos arranhões decorrentes do uso, porém discretos.<br><br>Sou o único dono do celular desde a compra. Estou vendendo apenas porque comprei um aparelho melhor e não tenho mais necessidade de ficar com este.<br><br>Aparelho de uso próprio, funcionando normalmente e pronto para uso.",
+            "price": "R$ 500",
+            "oldPrice": "R$ 550",
+            "pro": false,
+            "properties": [
+              {
+                "name": "category",
+                "label": "Categoria",
+                "value": "Celulares e Smartphones",
+                "url": "https://www.olx.com.br/celulares/estado-ba/grande-salvador/salvador",
+                "rawValue": null,
+                "property": {
+                  "rawValue": null,
+                  "label": "Celulares e Smartphones"
+                }
+              },
+              {
+                "name": "electronics_brand",
+                "label": "Marca",
+                "value": "XIAOMI",
+                "rawValue": "4",
+                "property": {
+                  "rawValue": "4",
+                  "label": "XIAOMI"
+                }
+              },
+              {
+                "name": "electronics_model",
+                "label": "Modelo",
+                "value": "REDMI NOTE 12",
+                "rawValue": "81",
+                "property": {
+                  "rawValue": "81",
+                  "label": "REDMI NOTE 12"
+                }
+              },
+              {
+                "name": "electronics_condition",
+                "label": "Condição",
+                "value": "Usado - Excelente",
+                "rawValue": "2",
+                "property": {
+                  "rawValue": "2",
+                  "label": "Usado - Excelente"
+                }
+              },
+              {
+                "name": "cellphone_storage",
+                "label": "Memória interna",
+                "value": "128GB",
+                "rawValue": "9",
+                "property": {
+                  "rawValue": "9",
+                  "label": "128GB"
+                }
+              },
+              {
+                "name": "electronics_color",
+                "label": "Cor",
+                "value": "Azul",
+                "rawValue": "9",
+                "property": {
+                  "rawValue": "9",
+                  "label": "Azul"
+                }
+              },
+              {
+                "name": "electronics_battery_health",
+                "label": "Saúde da bateria",
+                "value": "Perfeita (95% até 100%)",
+                "rawValue": "1",
+                "property": {
+                  "rawValue": "1",
+                  "label": "Perfeita (95% até 100%)"
+                }
+              },
+              {
+                "name": "exchange",
+                "label": "Aceita trocas",
+                "value": "Não",
+                "rawValue": "2",
+                "property": {
+                  "rawValue": "2",
+                  "label": "Não"
+                }
+              }
+            ],
+            "image": "https://img.olx.com.br/thumbs256x256/18/181616325753604.jpg",
+            "imageList": [
+              {
+                "baseUrl": "https://img.olx.com.br",
+                "path": "/18/181616325753604.jpg"
+              },
+              {
+                "baseUrl": "https://img.olx.com.br",
+                "path": "/18/182629562710204.jpg"
+              },
+              {
+                "baseUrl": "https://img.olx.com.br",
+                "path": "/18/184655324255051.jpg"
+              },
+              {
+                "baseUrl": "https://img.olx.com.br",
+                "path": "/18/188694686315608.jpg"
+              },
+              {
+                "baseUrl": "https://img.olx.com.br",
+                "path": "/17/171688329486871.jpg"
+              }
+            ],
+            "numberOfImages": 5,
+            "listId": 1532187337,
+            "location": "Salvador, Paralela - DDD 71 Salvador e região, BA",
+            "location_distinct": {
+              "municipality": "Salvador",
+              "neighbourhood": "Paralela",
+              "uf": "BA"
+            },
+            "category": "Celulares e Smartphones",
+            "link": "https://ba.olx.com.br/grande-salvador/celulares/xiaomi-redmi-note-12-4g-8gb-128gb-1532187337",
+            "state": 4,
+            "categoryId": 3060,
+            "isFavorited": false,
+            "olxPay": true,
+            "olxDelivery": true
+          }
+        ],
+        "categories": [
+          {
+            "id": 3060,
+            "name": "Celulares e Smartphones"
+          },
+          {
+            "id": 7060,
+            "name": "Serviços"
+          }
+        ],
+        "states": [
+          {
+            "id": 4,
+            "name": "Bahia"
+          }
+        ]
+      },
+      "sellerAdsHistory": {
+        "id": "132911059",
+        "salesAmounts": 9,
+        "salesAmountsShipping": 6,
+        "canceledSalesAmounts": 1,
+        "totalDispatchTimeInMinutes": 12353,
+        "averageDispatchTime": "1 dia",
+        "publishedAdsCount": 2,
+        "ads90DaysHistoryCount": 3
+      },
+      "sellerRatings": {
+        "averageRating": 5,
+        "totalElements": 8,
+        "ratings": [
+          {
+            "profileURL": null,
+            "firstName": "Henrique",
+            "comment": "",
+            "score": 5,
+            "onOlxSince": "Na OLX desde de julho de 2016",
+            "evaluationDate": "2026-07-27T18:00:04",
+            "productName": "Pelúcia Canarinho Ifood da Seleção 62 Lacrado - Colecionável"
+          },
+          {
+            "profileURL": null,
+            "firstName": "Isaque",
+            "comment": "",
+            "score": 5,
+            "onOlxSince": "Na OLX desde de dezembro de 2021",
+            "evaluationDate": "2026-02-17T19:31:23",
+            "productName": "Placa mãe Gigabyte H110-M lga 1151 ddr3 "
+          },
+          {
+            "profileURL": null,
+            "firstName": "Celso",
+            "comment": "",
+            "score": 5,
+            "onOlxSince": "Na OLX desde de agosto de 2021",
+            "evaluationDate": "2026-01-21T12:56:42",
+            "productName": "Conversor Digital de TV CD 636"
+          },
+          {
+            "profileURL": null,
+            "firstName": "Ruan",
+            "comment": "",
+            "score": 5,
+            "onOlxSince": "Na OLX desde de fevereiro de 2022",
+            "evaluationDate": "2025-11-12T20:09:56",
+            "productName": "NVIDIA GALAX GTX 1650 4GB OC"
+          }
+        ],
+        "highlights": []
+      },
+      "userLoggedData": {},
+      "isUserLogged": false,
+      "sellerProfileData": {
+        "keyAccount": false,
+        "configs": {
+          "contatoPro": null,
+          "profilePictureEnabled": true
+        },
+        "locationDataFromZipCode": {
+          "state": "BA",
+          "city": "Salvador",
+          "neighbourhood": "Paralela"
+        },
+        "facematch": {
+          "processCompleted": 1,
+          "profileVerified": true
+        },
+        "lastActivity": {
+          "online": true,
+          "timestamp": "2026-09-15T02:20:50.657Z"
+        },
+        "nickname": "João Pedro Jesus Ferreira Barreto dos Santos",
+        "imageUrl": "https://static.olx.com.br/upr/img/photo-off.png",
+        "profilePictureUrl": "https://static.olx.com.br/upr/img/photo-off.png",
+        "phoneVerified": true,
+        "emailVerified": true,
+        "facebookVerified": false,
+        "phone": null,
+        "creationDate": "2023-12-11T14:07:21.900Z",
+        "isNewAccount": false,
+        "isPro": false,
+        "slug": "joao-pedro-jesus-ferreira-barreto-dos-santos-5ceb23c2",
+        "publicAccountId": "5ceb23c2-3693-488f-9049-bbfcc7e9a766",
+        "creci": null,
+        "score": {
+          "value": "ADVANCED",
+          "description": "Avançado"
+        },
+        "allowPhotoEditing": false
+      },
+      "isMobile": false,
+      "abTests": "",
+      "viewerIsOwner": false
+    },
+    "__N_SSP": true
+  },
+  "page": "/[slug]",
+  "query": {
+    "slug": "joao-pedro-jesus-ferreira-barreto-dos-santos-5ceb23c2"
+  },
+  "buildId": "P8o_giWvF-qEHZFZ3TjEk",
+  "assetPrefix": "https://static.olx.com.br/perfil/profile-olx",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "dynamicIds": [
+    46787,
+    62704,
+    47478
+  ],
+  "gssp": true,
+  "scriptLoader": [
+    {
+      "id": "datadog",
+      "strategy": "afterInteractive",
+      "children": "(function(h,o,u,n,d) {\n            h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}\n            d=o.createElement(u);d.async=1;d.src=n\n            n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)\n          })(window,document,'script','https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js','DD_RUM')\n          window.DD_RUM.onReady(function() {\n            window.DD_RUM.init({\n              clientToken: 'puba1fe7f33cd3b900a987919cb9c8f5489',\n              applicationId: 'daabdbf5-b7ea-4ed8-8548-fcf424781aa0',\n              site: 'datadoghq.com',\n              service: 'olx-profile',\n              env: 'production',\n              version: '1.12.4',\n              sessionSampleRate: 5,\n              sessionReplaySampleRate: 20,\n              trackUserInteractions: true,\n              trackResources: true,\n              trackLongTasks: true,\n              defaultPrivacyLevel: 'mask-user-input',\n            });\n          })"
+    }
+  ]
+}
